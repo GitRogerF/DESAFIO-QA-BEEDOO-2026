@@ -99,3 +99,27 @@ Durante os testes exploratórios, foi observado que o sistema permite o cadastro
 ## 6. Evidências
 
 As evidências de cada caso de teste estão disponíveis na pasta [Evidências](./Evidências) deste repositório.
+## 6. Evidências da execução dos testes
+
+As evidências de cada caso de teste (CT) foram registradas com prints e/ou gravações de tela. Todas as pastas estão dentro da pasta **Evidências** no repositório.
+
+- [CT01 - Cadastro de Curso com dados válidos](Evidências/CT01)
+- [CT02 - Cadastro de Curso sem nome](Evidências/CT02)
+- [CT03 - URL da Imagem de Capa inválida](Evidências/CT03)
+- [CT04 - Cadastro sem Data de Início](Evidências/CT04)
+- [CT05 - Cadastro sem Data de Fim](Evidências/CT05)
+- [CT06 - Data de Início maior que Data de Fim](Evidências/CT06)
+- [CT07 - Validação do tamanho do campo Descrição](Evidências/CT07)
+- [CT08 - Campo Vagas via teclado](Evidências/CT08)
+- [CT09 - Campo Vagas via botão lateral](Evidências/CT09)
+- [CT10 - Campo Vagas ao inserir letras](Evidências/CT10)
+- [CT11 - Campo Vagas ao inserir valor negativo](Evidências/CT11)
+- [CT12 - Curso presencial sem Endereço](Evidências/CT12)
+- [CT13 - Curso presencial com Endereço](Evidências/CT13)
+- [CT14 - Curso Online com Link de Inscrição](Evidências/CT14)
+- [CT15 - Curso Online sem Link de Inscrição](Evidências/CT15)
+- [CT16 - Cadastro de curso sem preencher nenhum campo](Evidências/CT16)
+- [CT17 - Listagem de Cursos](Evidências/CT17)
+- [CT18 - Exclusão de Curso](Evidências/CT18)
+
+> Todas as evidências estão armazenadas no repositório neste mesmo local, podendo ser acessadas clicando nos links acima.
