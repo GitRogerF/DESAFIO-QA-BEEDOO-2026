@@ -98,4 +98,4 @@ Durante os testes exploratórios, foi observado que o sistema permite o cadastro
 
 ## 6. Evidências
 
-Todas as evidências da execução dos casos de teste estão organizadas em pastas separadas por CT no repositório:
+As evidências de cada caso de teste estão disponíveis na pasta [Evidências](./Evidências) deste repositório.
