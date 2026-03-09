@@ -123,3 +123,9 @@ As evidências de cada caso de teste (CT) foram registradas com prints e/ou grav
 - [CT18 - Exclusão de Curso](Evidências/CT18)
 
 > Todas as evidências estão armazenadas no repositório neste mesmo local, podendo ser acessadas clicando nos links acima.
+
+## 7. Planilha de Casos de Teste
+
+Todos os cenários e resultados de testes estão documentados nesta planilha do Google Sheets:
+
+[📊 Acessar planilha de testes](https://docs.google.com/spreadsheets/d/1c2uDIpV2nejdSe9BSn_iVTuITjieTI8DuSFSz9b2dcE/edit?usp=sharing)
